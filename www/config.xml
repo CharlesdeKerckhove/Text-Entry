@@ -6,7 +6,7 @@
         id        = "mob.app.dev.storage"
         version   = "1.0.0">
 
-    <name>Application Storage</name>
+    <name>Text Input</name>
 
     <description>
         A sample application that stores data.
